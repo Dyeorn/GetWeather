@@ -4,7 +4,7 @@ import tkinter as tk
 
 import requests
 
-api_key = "3587b0807d3813818d1167cc25a9e38a"
+api_key = "sua_key_api"
 
 
 def getWeather(city, api_key):
